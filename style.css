@@ -5,11 +5,11 @@ body {
 
 #titulo {
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
     color: rgb(206, 20, 181);
 }
- .texto {
+.texto {
     text-align: center;
     color: #471a2d;
-    font-size: 30px;
+    font-size: 20px;
 }
