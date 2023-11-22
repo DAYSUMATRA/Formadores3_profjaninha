@@ -1,9 +1,13 @@
 body {
     background-color: antiquewhite;
 }
+#banner{
+    width: 50%;
+    margin: 20px;
+    padding: 5px;
+}
 
-
-#titulo {
+.titulo {
     text-align: center;
     font-size: 30px;
     color: rgb(206, 20, 181);
