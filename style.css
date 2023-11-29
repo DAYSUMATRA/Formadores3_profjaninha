@@ -17,3 +17,17 @@ body {
     color: #471a2d;
     font-size: 20px;
 }
+header {
+    padding: 10px;
+    background-color: crimson;
+    border-bottom: #471a2d;
+    font-size: 20;
+    color: ;
+    display: flex;
+    justify-content: space-around;
+}
+.cabecalho-imagem {
+    width: ;
+
+}
+}
